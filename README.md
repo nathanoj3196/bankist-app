@@ -22,7 +22,7 @@ A simple banking application that simulates real-world banking functionalities l
 
 # How to run
 
-1. Clone with git -> git clone https://github.com/nathanoj3196/forkify-app.git
+1. Clone with git -> git clone https://github.com/nathanoj3196/bankist-app.git
 1. Download ZIP
 1. Navigate to the project folder
 1. Open New Terminal
