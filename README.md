@@ -32,8 +32,7 @@ A simple banking application that simulates real-world banking functionalities l
 
 # Test accounts
 
-Username - Password
-js - 1111
-jd - 2222
-stw - 3333
-ss - 4444
+1. js - 1111
+2. jd - 2222
+3. stw - 3333
+4. ss - 4444
