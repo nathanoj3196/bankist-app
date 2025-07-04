@@ -1,0 +1,14 @@
+{
+  "name": "bankist-app",
+  "version": "1.0.0",
+  "description": "A simple bank style project",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Jonathan Carlo Urbina",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
